@@ -48,6 +48,9 @@ def clean_data(data):
     return data
 
 
+def try_me():
+    print('La jeunesse vraie, la seule, Curé, c'est d'aimer tout le monde sans distinction, cela seulement est vrai, cela seulement est jeune et nouveau.')
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import mangeclous
